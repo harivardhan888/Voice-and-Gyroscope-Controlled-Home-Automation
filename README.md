@@ -11,7 +11,6 @@ The Voice and Gyro Controlled Home Automation project demonstrates a smart home 
 ### Hardware
 Arduino Uno: Microcontroller for processing commands.
 HC-05 Bluetooth Module: Enables wireless communication.
-Relay Module: Used to control home appliances.
 Power Supply: Provides power to the Arduino and relays.
 
 ### Software
@@ -27,12 +26,9 @@ Firebase Integration: Maintains a real-time database for synchronized appliance 
 ### Hardware Setup:
 
 Connect the Bluetooth module to the Arduino Uno.
-Wire the appliances to the relay module.
 Power up the Arduino system.
 
-
 ### Operation:
-
 Launch the app and connect to the Bluetooth module.
 Use voice commands (e.g., "Turn on the light") or gestures to control appliances.
 Monitor real-time updates through Firebase.
