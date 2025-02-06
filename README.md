@@ -1,5 +1,5 @@
-## Voice and Gyro Controlled Home Automation
-# Overview
+# Voice and Gyro Controlled Home Automation
+## Overview
 The Voice and Gyro Controlled Home Automation project demonstrates a smart home system where appliances can be controlled using both voice commands and smartphone gestures. This project integrates Arduino, Bluetooth communication, and Firebase for real-time control through a custom Android app developed in Java.
 
 ### Feature
